@@ -1,0 +1,17 @@
+// TODO: DB den Actor tablosunu okuyarak, bir excele yazdırınız.
+[9:22 PM]
+1- Algoritma
+2- Java
+3- GitHub
+3- Selenium Web Driver  (UI Testing)  kütüphane
+4- TestNG               (UI Testing)  test Organizatörü-tool
+5- Cucumber             (UI Testing)  test tool
+6- ApachePOI
+7- MySql Workbench (DB Manuel Testing) program
+8- JDBC            (DB Automation Testing) kütüphane
+
+-----
+9- Postman     (API Manuel Testing) 3-4
+10-RestAssured (API Automation Testing) 5-6
+
+11-Jenkins Testleri ototmatik zamanlı çalış
